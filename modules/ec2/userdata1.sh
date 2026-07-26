@@ -65,11 +65,11 @@ WEB SERVER 01
 </div>
 
 <div class="info">
-<b>Environment:</b> Production
+<b>Environment =</b> Production
 </div>
 
 <div class="info">
-<b>Availability:</b> Healthy
+<b>Availability =</b> Healthy
 </div>
 
 <div class="info">
