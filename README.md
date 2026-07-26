@@ -77,7 +77,8 @@ Once `apply` finishes, grab the ALB's DNS name from the output and open it in a 
 ![ALB distributing traffic](docs/images/alb-server1.png)
 
 
-##![ALB distributing traffic](docs/images/alb-server2.png)
+## Just After Refresh
+![ALB distributing traffic](docs/images/alb-server2.png)
 
 *browser hitting the ALB's DNS name, refreshed by couple of times so both instances respond.*
 
