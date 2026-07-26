@@ -74,11 +74,17 @@ Once `apply` finishes, grab the ALB's DNS name from the output and open it in a 
 
 ## Screenshots
 
-![ALB distributing traffic](screenshots/alb-response.png)
-*Should show the browser hitting the ALB's DNS name, refreshed a couple of times so both instances respond.*
+![ALB distributing traffic](docs/images/alb-server1.png)
 
-![Terraform apply output](screenshots/terraform-apply.png)
-*Should show a successful `terraform apply` run in the terminal with all resources created.*
+
+![ALB distributing traffic](docs/images/alb-server1.png)
+
+*browser hitting the ALB's DNS name, refreshed by couple of times so both instances respond.*
+
+
+
+![Terraform apply output](docs/images/resouce-created-success.png)
+*A successful `terraform apply` run in the terminal with all resources created.*
 
 ## What I Learned
 
